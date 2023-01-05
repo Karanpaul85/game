@@ -1,0 +1,17 @@
+.infoBox{
+  display: inline-flex;
+  width: 80%;
+  max-width: 420px;
+  text-align: center;
+  justify-content: center;
+  background: #008539;
+  color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  line-height: 1.5;
+  font-size: 16px;
+  flex-direction: column;
+  cursor: pointer;
+  position: absolute;
+  z-index: 9;
+}

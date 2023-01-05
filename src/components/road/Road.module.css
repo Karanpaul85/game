@@ -1,0 +1,10 @@
+.road{
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  background: #222;
+  height: 100vh;
+  border-left: 7px dashed #fff;
+  border-right: 7px dashed #fff;
+  overflow: hidden;
+}
